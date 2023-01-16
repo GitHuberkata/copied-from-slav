@@ -1,5 +1,5 @@
 
-name: Test Hello
+name: Test Hello Slav
 on: [pull_request]
 jobs:
   test-hello:
